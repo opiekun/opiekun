@@ -11,15 +11,15 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Magento 2, PHP, javascript**
 
-- 📫 Reach me at: <a href="mailto:matheusmmedeiros@protonmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="opiekun"/></a>
+- 📫 Reach me at: <a href="mailto:matheusmmedeiros@protonmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="opiekun"/></a>
   
-- 🗄️ My resume <a href="https://github.com/opiekun/opiekun/blob/main/cv.pdf" target="blank"><img align="center" src="https://icongr.am/fontawesome/address-card.svg?size=121&color=ffffff" alt="matheusmmedeiros" height="30" width="40" />Portuguese </a>
-<a href="https://github.com/opiekun/opiekun/blob/main/cv%20en.pdf" target="blank"><img align="center" src="https://icongr.am/fontawesome/address-card.svg?size=121&color=ffffff" alt="matheusmmedeiros" height="30" width="40" /> English </a> 
+- 🗄️ My resume <a href="https://github.com/opiekun/opiekun/blob/main/cv.pdf" target="_blank"><img align="center" src="https://icongr.am/fontawesome/address-card.svg?size=121&color=ffffff" alt="matheusmmedeiros" height="30" width="40" />Portuguese </a>
+<a href="https://github.com/opiekun/opiekun/blob/main/cv%20en.pdf" target="_blank"><img align="center" src="https://icongr.am/fontawesome/address-card.svg?size=121&color=ffffff" alt="matheusmmedeiros" height="30" width="40" /> English </a> 
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/matheusmmedeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusmmedeiros" height="30" width="40" /></a>
-  <a href="https://dev.to/opiekun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="opiekun" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matheusmmedeiros" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusmmedeiros" height="30" width="40" /></a>
+  <a href="https://dev.to/opiekun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="opiekun" height="30" width="40" /></a>
 </p>
   <hr>
 <h3 align="left">Work Related:</h3>
