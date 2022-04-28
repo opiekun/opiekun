@@ -56,4 +56,4 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 <p><img img height="180em" align="left" src="https://github-readme-stats.vercel.app/api?username=opiekun&show_icons=true&locale=en&theme=radical" alt="opiekun" />
-<p>&nbsp;<img img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opiekun&show_icons=true&locale=en&layout=compact&theme=radical" alt="opiekun" /></p>
+<p>&nbsp;<img img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelstz&show_icons=true&locale=en&layout=compact&theme=radical" alt="opiekun" /></p>
