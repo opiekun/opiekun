@@ -54,4 +54,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"align="center"/> </a></p>
 
 <hr>
-<img img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelstz&show_icons=true&locale=en&layout=compact&theme=radical" alt="opiekun" /></p>
+<img img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opiekun&show_icons=true&locale=en&layout=compact&theme=radical" alt="opiekun" /></p>
