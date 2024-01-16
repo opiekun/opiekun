@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💬 Ask me about **Magento 2, PHP, javascript**
 
-- 📫 Reach me at: <a href="mailto:matheusmmedeiros@protonmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="opiekun"/></a>
+- 📫 Reach me at: <a href="mailto:opiekun.matheus@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="opiekun"/></a>
   
 - 🗄️ My resume
 <a href="https://github.com/opiekun/opiekun/blob/main/cv-en.pdf" target="_blank"><img align="center" src="https://icongr.am/fontawesome/address-card.svg?size=121&color=ffffff" alt="curriculum-matheusmmedeiros" height="30" width="40" /> English </a> 
