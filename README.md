@@ -5,10 +5,6 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Howdy 🦝</h1>
 <h3 align="center">Magento 2/Adobe Commerce DEV</h3>
 
-- 🌱 Learning **Laravel and Ruby on Rails**
-
-- 📝Projects are available at: (site under renovation)
-
 - 💬 Ask me about **Magento 2, PHP, javascript**
 
 - 📫 Reach me at: <a href="mailto:opiekun.matheus@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="opiekun"/></a>
