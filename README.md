@@ -1,7 +1,3 @@
-<!---
-opiekun/opiekun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Howdy 🦝</h1>
 <h3 align="center">Magento 2/Adobe Commerce DEV</h3>
 
@@ -15,7 +11,6 @@ You can click the Preview link to take a look at your changes.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matheusmmedeiros" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matheusmmedeiros" height="30" width="40" /></a>
-  <a href="https://dev.to/opiekun" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="opiekun" height="30" width="40" /></a>
 </p>
   <hr>
 <h3 align="left">Work Related:</h3>
@@ -50,4 +45,4 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"align="center"/> </a></p>
 
 <hr>
-<img img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=opiekun&show_icons=true&locale=en&layout=compact&theme=radical" alt="opiekun" /></p>
+<img img height="180em" align="center" src=" https://github-stats-extended.vercel.app/api/top-langs?username=opiekun&show_icons=true&locale=en&layout=compact&theme=radical" alt="opiekun" /></p>
